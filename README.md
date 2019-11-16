@@ -1,8 +1,5 @@
 # repotest
 Testowe repozytorium
 
-f
-gds
-gdegdefrg
-reg
-g
+
+*To był test usunięcia*
